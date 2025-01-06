@@ -5,7 +5,7 @@ import random
 
 def writeAndCommitRandomUUID():
   # Define the file name
-  file_name = "README.md"
+  file_name = "/home/user/increment-job/README.md"
 
   try:
     # Step 1: Clear or create the file
